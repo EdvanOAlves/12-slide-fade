@@ -41,7 +41,7 @@ body{
     }
     34%, 66% {
         background-image: url(./img/Elevador.jpg);
-        --text-description: "Primeiro elemento após as escadas, prelúdio da sala de aula"
+        --text-description: "Primeiro elemento após as escadas, um elevador oferecendo uma rota direta em contraste à jornada das escadas"
     }
     67%, 100% {
         background-image: url(./img/Materiais\ Biblioteca.jpg);
