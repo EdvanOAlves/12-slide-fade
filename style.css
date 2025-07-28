@@ -36,16 +36,16 @@ body{
 
 @keyframes slider {
     0%, 33% {
-        background-image: url(./img/olhos-gato.jpg);
-        --text-description: "Olhos de gato!"
+        background-image: url(./img/Janela.jpg);
+        --text-description: "Vista da escada, caminho para a sala de aula"
     }
     34%, 66% {
-        background-image: url(./img/olhos-cachorro.jpg);
-        --text-description: "Olhos de cachorro!"
+        background-image: url(./img/Elevador.jpg);
+        --text-description: "Primeiro elemento após as escadas, prelúdio da sala de aula"
     }
     67%, 100% {
-        background-image: url(./img/olhos-aguia.jpg);
-        --text-description: "Olhos de aguia!"
+        background-image: url(./img/Materiais\ Biblioteca.jpg);
+        --text-description: "Muitos Lápis na biblioteca, poucos desenhos para colorir"
     }
 }
 @keyframes fade {
